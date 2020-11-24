@@ -8,5 +8,6 @@
         
 - [ ] <- kliknij, jeśli możesz
 
-link do strony [GitHub Pages](https://kpraszkiewicz.github.io/)
+link do strony [GitHub Pages](https://kpraszkiewicz.github.io/).
+
 link do mojego profilu na konkurencyjnej stronie [@KPraszkiewicz](https://gitlab.com/KPraszkiewicz)
